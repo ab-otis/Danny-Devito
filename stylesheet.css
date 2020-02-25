@@ -1,0 +1,92 @@
+body{
+ background-image: url("images/gettyimages-182717335-30-355069be313ad674537c51219c269b654d5fc05a-s800-c85.jpg");
+
+}
+
+.nav{
+	height: 75px;
+	width: 92%;
+	background-color: #D4E6B5;
+	padding: 3%;
+	margin: 1%;
+	}
+
+.heroimage{
+	height: 300px;
+	width: 98%;
+	background-color: #7E9181;
+	margin: 1%;
+	}
+
+.aboutus{
+	height: 388px;
+	width: 67%;
+	background-color: #2E3532;
+	margin: 1%;
+	padding: 12px;
+	float: left;
+	}
+
+.social{
+	height: 388px;
+	width: 26%;
+	background-color: #545E56;
+	margin: 1%;
+	padding: 12px;
+	float: right;
+	}
+
+.casestudy{
+	height: 350px;
+	width: 92%;
+	background-color: #7E9181;
+	padding: 3%;
+	margin: 1%;
+	clear: both;
+	}
+
+.who{
+	height: 150px;
+	width: 29.33%;
+	background-color: #2E3532;
+	padding: 1%;
+	margin: 1%;
+	float: left;
+	}
+
+.what{
+	height: 150px;
+	width: 29.33%;
+	background-color: #545E56;
+	padding: 1%;
+	margin: 1%;
+	float: left;
+	}
+
+.join{
+	height: 150px;
+	width: 29.33%;
+	background-color: #D4E6B5;
+	padding: 1%;
+	margin: 1%;
+	float: left;
+	}
+	
+.footer{
+	height: 350px;
+	width: 96%;
+	margin: 1%;
+	background-color: #667761;
+	padding: 1%;
+	clear: both;
+	}	
+	
+	h1,h2,h3,h4,p{
+	font-family: montserrat, open sans, helvetica, sans;
+	}
+	
+a{
+	color: #F7EBEC;
+	}
+
+	
